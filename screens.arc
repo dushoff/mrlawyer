@@ -1,5 +1,11 @@
 
+I guess the idea was to work on making more flexible listdirs.
+
+2023 Jul 12 (Wed): this bizarrely seems to have the same problem as cloned directories
+
 XX. rarity: ~/Dropbox/mean_rarity_lit/
+
+XX. sandbox: https://github.com/dushoff/ResearchSandbox.git
 
 merge: ~/Dropbox/rarity_merge/
 should have no useful content, but maybe useful tools about file hashes and tests
